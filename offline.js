@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740483923,
+	"version": 1740485601,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,9 @@
 		"images/usdc-sheet0.png",
 		"images/usdc-sheet1.png",
 		"images/sprite-sheet0.png",
+		"images/particles.png",
+		"images/particles2.png",
+		"images/ring-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/game over (4).m4a",
