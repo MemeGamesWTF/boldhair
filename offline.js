@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740478410,
+	"version": 1740483923,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,12 @@
 		"images/sprite-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/game over (4).m4a",
+		"media/game over (4).ogg",
+		"media/win.m4a",
+		"media/win.ogg",
+		"media/bg (3).m4a",
+		"media/bg (3).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
